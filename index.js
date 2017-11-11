@@ -13,10 +13,11 @@ function destructivelyRemoveLastDriver(name){
   drivers.pop(name);
 }
 
-function destructivelyRemoveFirstDriver(name){
-  drivers.shift(name);
-}
+//function destructivelyRemoveFirstDriver(name){
+//  drivers.shift(name);
+//}
 
 function appendDriver(name){
-  let newArray = [...drivers, name]
+  drivers.
+  newArray = [...drivers, name]
 }
